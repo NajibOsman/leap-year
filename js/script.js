@@ -6,3 +6,7 @@ $(document).ready(function() {
       $("#result").text(result);
     });
   });
+
+  var leapYear = function(year) {
+      return false;
+    };
